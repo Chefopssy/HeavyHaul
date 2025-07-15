@@ -1,0 +1,853 @@
+Weight,Volume,Weather,Traffic,PublicEvent,DisruptionReason,DelayFlag,DisruptionFlag
+118.3,2.7,1,1,2,Weather Delay,1,1
+326.0,4.1,4,1,2,Strike,1,1
+60.8,2.7,3,1,2,Customs Issue,1,1
+256.9,5.3,3,0,0,Vehicle Breakdown,1,1
+348.2,6.0,4,0,2,Customs Issue,1,1
+83.2,2.8,1,3,0,Weather Delay,1,1
+128.2,3.8,2,0,0,Weather Delay,1,1
+117.7,2.3,4,3,0,Strike,1,1
+232.9,3.2,0,3,0,Traffic Jam,1,1
+241.6,4.9,2,2,0,Weather Delay,1,1
+298.5,4.1,4,2,1,Weather Delay,1,1
+52.4,1.4,2,1,1,Strike,1,1
+208.3,3.4,2,3,0,Vehicle Breakdown,1,1
+69.1,3.0,2,0,2,Weather Delay,1,1
+139.5,2.8,0,0,1,Strike,1,1
+80.9,3.0,2,1,1,Strike,1,1
+214.7,3.6,3,2,2,Strike,1,1
+256.7,5.5,3,0,2,Strike,1,1
+345.3,6.2,2,0,2,Vehicle Breakdown,1,1
+305.0,5.7,1,0,1,Weather Delay,1,1
+203.9,4.2,3,0,1,Strike,1,1
+280.8,4.8,4,3,0,Weather Delay,1,1
+109.6,2.6,3,2,1,Customs Issue,1,1
+342.0,5.2,3,2,0,Strike,1,1
+227.1,4.1,3,1,1,Traffic Jam,1,1
+81.2,1.9,1,3,0,Strike,1,1
+213.7,3.9,3,3,0,Traffic Jam,1,1
+151.7,2.8,3,0,1,Strike,1,1
+342.2,4.7,0,3,2,Strike,1,1
+103.1,2.2,0,0,0,Vehicle Breakdown,1,1
+200.0,2.6,3,2,2,Weather Delay,1,1
+167.5,3.9,3,3,0,Weather Delay,1,1
+325.9,4.4,1,1,1,Weather Delay,1,1
+51.6,1.8,4,3,1,Weather Delay,1,1
+290.6,5.2,1,2,2,Weather Delay,1,1
+288.2,5.1,3,2,2,Weather Delay,1,1
+135.4,3.6,3,0,0,Vehicle Breakdown,1,1
+178.2,3.9,4,2,0,Vehicle Breakdown,1,1
+132.5,4.2,1,0,0,Traffic Jam,1,1
+276.6,3.4,4,1,0,Vehicle Breakdown,1,1
+188.1,4.5,1,3,0,Vehicle Breakdown,1,1
+348.3,5.7,0,0,0,Strike,1,1
+209.1,4.2,2,2,1,Vehicle Breakdown,1,1
+325.0,5.0,0,1,0,Vehicle Breakdown,1,1
+135.4,2.3,3,3,0,Customs Issue,1,1
+51.8,2.8,1,0,2,Customs Issue,1,1
+94.4,1.9,1,2,2,Strike,1,1
+62.6,3.6,4,2,0,Traffic Jam,1,1
+153.3,2.0,0,0,1,Traffic Jam,1,1
+342.2,6.1,3,0,0,Strike,1,1
+334.1,5.9,0,0,1,Customs Issue,1,1
+104.0,4.0,0,0,1,Traffic Jam,1,1
+62.7,3.2,0,3,0,Strike,1,1
+338.1,5.0,1,2,1,Vehicle Breakdown,1,1
+198.9,2.8,0,0,2,Vehicle Breakdown,1,1
+302.4,5.7,2,2,2,Vehicle Breakdown,1,1
+199.8,3.9,3,0,1,Vehicle Breakdown,1,1
+142.2,2.3,0,3,2,Vehicle Breakdown,1,1
+219.7,4.1,0,0,2,Traffic Jam,1,1
+160.5,4.2,1,3,1,Customs Issue,1,1
+105.2,1.8,1,1,1,Weather Delay,1,1
+271.7,3.8,4,3,1,Strike,1,1
+116.0,3.1,4,0,0,Customs Issue,1,1
+82.2,1.7,3,1,0,Vehicle Breakdown,1,1
+163.0,2.7,1,1,1,Vehicle Breakdown,1,1
+166.3,3.3,3,0,0,Vehicle Breakdown,1,1
+204.0,3.0,3,1,2,Strike,1,1
+290.9,4.2,3,3,2,Vehicle Breakdown,1,1
+249.4,4.1,0,2,2,Weather Delay,1,1
+277.0,5.3,4,0,0,Customs Issue,1,1
+190.0,4.6,0,2,1,Customs Issue,1,1
+211.1,3.3,4,2,1,Vehicle Breakdown,1,1
+179.9,4.1,2,3,0,Strike,1,1
+58.3,1.2,1,3,2,Traffic Jam,1,1
+193.0,3.6,3,1,0,Vehicle Breakdown,1,1
+243.2,3.4,2,3,2,Traffic Jam,1,1
+189.8,3.1,3,1,1,Strike,1,1
+152.9,4.3,3,1,1,Strike,1,1
+333.7,4.8,2,2,1,Traffic Jam,1,1
+231.4,3.1,3,2,1,Vehicle Breakdown,1,1
+171.0,2.5,1,3,0,Customs Issue,1,1
+212.9,5.0,0,0,0,Traffic Jam,1,1
+198.7,2.8,2,0,2,Weather Delay,1,1
+314.7,3.9,2,2,0,Customs Issue,1,1
+158.2,4.3,2,0,2,Customs Issue,1,1
+267.8,3.3,2,2,1,Traffic Jam,1,1
+166.2,4.5,0,2,1,Weather Delay,1,1
+166.7,2.3,4,2,1,Traffic Jam,1,1
+132.8,2.9,1,1,1,Strike,1,1
+50.2,2.3,0,3,0,Strike,1,1
+177.7,4.8,1,0,1,Strike,1,1
+301.9,4.6,4,2,1,Customs Issue,1,1
+144.8,4.0,3,0,0,Strike,1,1
+309.2,4.1,4,3,0,Weather Delay,1,1
+97.2,2.4,1,0,0,Vehicle Breakdown,1,1
+234.4,4.6,0,1,0,Vehicle Breakdown,1,1
+171.6,3.8,0,2,2,Vehicle Breakdown,1,1
+73.0,1.9,4,0,0,Weather Delay,1,1
+67.9,2.4,2,3,0,Vehicle Breakdown,1,1
+277.3,3.4,1,1,2,Strike,1,1
+342.8,6.3,0,2,1,Traffic Jam,1,1
+123.9,3.8,0,3,0,Weather Delay,1,1
+147.0,3.2,3,1,1,Customs Issue,1,1
+171.1,2.5,0,1,0,Traffic Jam,1,1
+187.2,3.9,1,1,1,Traffic Jam,1,1
+281.3,3.4,3,1,1,Weather Delay,1,1
+59.9,3.6,3,0,0,Weather Delay,1,1
+80.2,1.7,4,1,0,Customs Issue,1,1
+154.9,3.3,0,0,0,Customs Issue,1,1
+207.9,2.7,2,1,1,Traffic Jam,1,1
+259.3,5.0,2,3,0,Customs Issue,1,1
+266.5,5.6,0,3,2,Weather Delay,1,1
+185.5,2.6,0,3,2,Vehicle Breakdown,1,1
+162.6,2.2,0,2,0,Customs Issue,1,1
+66.5,1.7,0,3,1,Traffic Jam,1,1
+319.4,4.7,1,0,2,Strike,1,1
+289.8,4.1,4,2,0,Vehicle Breakdown,1,1
+85.3,2.4,2,1,2,Customs Issue,1,1
+283.9,4.2,1,1,2,Customs Issue,1,1
+194.8,2.9,0,0,0,Traffic Jam,1,1
+174.6,4.0,2,3,2,Customs Issue,1,1
+255.0,4.6,1,2,1,Strike,1,1
+136.6,3.6,3,0,0,Traffic Jam,1,1
+320.0,4.2,4,0,2,Weather Delay,1,1
+136.9,2.2,2,2,1,Traffic Jam,1,1
+322.4,4.0,2,1,2,Customs Issue,1,1
+245.0,5.0,3,2,1,Vehicle Breakdown,1,1
+80.1,3.2,2,2,0,Strike,1,1
+231.2,3.4,3,1,1,Customs Issue,1,1
+213.1,4.6,2,1,1,Customs Issue,1,1
+201.9,3.6,0,1,0,Weather Delay,1,1
+159.9,3.4,0,0,1,Vehicle Breakdown,1,1
+131.7,4.3,3,2,1,Vehicle Breakdown,1,1
+278.3,3.9,0,3,0,Traffic Jam,1,1
+133.9,3.8,4,1,2,Vehicle Breakdown,1,1
+157.4,3.1,2,1,1,Traffic Jam,1,1
+195.7,4.7,1,2,2,Vehicle Breakdown,1,1
+322.2,5.0,0,1,0,Vehicle Breakdown,1,1
+238.8,4.6,2,3,2,Customs Issue,1,1
+294.6,3.8,2,3,2,Strike,1,1
+261.2,4.9,0,1,2,Customs Issue,1,1
+192.6,3.5,1,1,1,Customs Issue,1,1
+192.4,4.0,4,3,1,Customs Issue,1,1
+318.4,5.7,0,2,2,Customs Issue,1,1
+171.2,2.7,4,0,1,Traffic Jam,1,1
+275.7,5.7,0,3,1,Strike,1,1
+80.1,1.4,4,3,1,Customs Issue,1,1
+142.0,2.7,4,0,1,Customs Issue,1,1
+113.5,2.3,4,3,2,Strike,1,1
+141.6,3.0,0,2,1,Traffic Jam,1,1
+153.5,2.5,2,2,1,Traffic Jam,1,1
+349.5,4.4,0,2,1,Vehicle Breakdown,1,1
+156.3,4.0,1,1,2,Strike,1,1
+280.9,3.4,4,3,1,Vehicle Breakdown,1,1
+203.8,3.4,2,1,2,Vehicle Breakdown,1,1
+74.5,1.4,3,2,1,Traffic Jam,1,1
+211.4,4.7,3,2,0,Customs Issue,1,1
+298.3,4.6,0,1,1,Traffic Jam,1,1
+172.5,4.1,4,1,0,Customs Issue,1,1
+102.9,2.5,1,0,1,Strike,1,1
+63.2,3.5,4,2,1,Strike,1,1
+327.9,4.6,0,0,1,Strike,1,1
+184.0,4.7,2,3,1,Weather Delay,1,1
+210.9,3.7,3,0,2,Vehicle Breakdown,1,1
+219.6,3.1,3,2,2,Traffic Jam,1,1
+248.7,3.8,3,0,1,Traffic Jam,1,1
+252.0,5.2,3,2,2,Vehicle Breakdown,1,1
+91.8,3.6,4,1,0,Customs Issue,1,1
+254.1,4.8,1,0,2,Strike,1,1
+209.0,3.9,1,2,1,Vehicle Breakdown,1,1
+131.0,1.9,2,3,2,Vehicle Breakdown,1,1
+279.5,5.4,1,1,1,Weather Delay,1,1
+230.9,3.7,1,0,2,Weather Delay,1,1
+262.2,4.5,1,0,1,Vehicle Breakdown,1,1
+97.8,2.7,1,1,0,Strike,1,1
+192.4,3.0,3,3,0,Weather Delay,1,1
+176.7,4.6,3,2,0,Traffic Jam,1,1
+333.3,4.4,1,0,0,Traffic Jam,1,1
+70.2,2.0,3,2,0,Strike,1,1
+336.9,4.8,4,2,0,Vehicle Breakdown,1,1
+102.8,1.5,1,1,0,Weather Delay,1,1
+151.8,2.2,4,2,2,Traffic Jam,1,1
+284.1,4.8,4,0,2,Vehicle Breakdown,1,1
+124.4,3.7,0,0,2,Customs Issue,1,1
+244.8,3.2,0,0,0,Weather Delay,1,1
+299.4,4.7,4,0,2,Strike,1,1
+301.6,4.8,4,3,1,Weather Delay,1,1
+347.8,5.7,3,1,1,Traffic Jam,1,1
+333.8,4.5,3,1,0,Vehicle Breakdown,1,1
+146.7,4.3,4,0,1,Strike,1,1
+103.7,3.8,0,2,1,Vehicle Breakdown,1,1
+316.2,5.9,1,0,0,Traffic Jam,1,1
+286.7,5.5,0,2,1,Vehicle Breakdown,1,1
+249.8,4.5,3,2,2,Weather Delay,1,1
+226.0,4.5,3,2,1,Customs Issue,1,1
+125.3,2.2,4,0,1,Vehicle Breakdown,1,1
+329.9,6.3,4,1,1,Weather Delay,1,1
+308.4,5.6,4,0,1,Vehicle Breakdown,1,1
+267.2,4.5,3,1,0,Traffic Jam,1,1
+181.1,4.1,1,2,0,Vehicle Breakdown,1,1
+127.1,1.9,4,2,1,Weather Delay,1,1
+144.1,2.3,3,1,2,Strike,1,1
+247.2,4.5,0,2,2,Strike,1,1
+86.1,3.7,2,3,0,Customs Issue,1,1
+227.8,5.3,2,0,0,Traffic Jam,1,1
+169.9,2.6,1,2,0,Strike,1,1
+91.6,3.3,1,0,1,Traffic Jam,1,1
+310.4,4.2,0,2,1,Traffic Jam,1,1
+344.7,5.2,3,2,0,Traffic Jam,1,1
+144.1,4.1,3,2,0,Vehicle Breakdown,1,1
+126.6,2.0,3,1,2,Weather Delay,1,1
+129.8,4.1,4,1,2,Weather Delay,1,1
+251.9,5.5,2,2,1,Vehicle Breakdown,1,1
+77.4,2.4,3,3,0,Traffic Jam,1,1
+208.4,3.1,1,2,1,Strike,1,1
+195.7,4.6,4,3,0,Traffic Jam,1,1
+267.4,4.4,3,1,1,Customs Issue,1,1
+209.7,3.3,0,0,2,Vehicle Breakdown,1,1
+150.1,4.2,2,1,2,Customs Issue,1,1
+210.9,4.3,2,0,2,Weather Delay,1,1
+127.5,3.2,0,0,2,Weather Delay,1,1
+346.3,4.6,3,0,0,Vehicle Breakdown,1,1
+255.4,3.2,4,3,2,Customs Issue,1,1
+350.0,6.2,1,1,2,Traffic Jam,1,1
+144.8,2.9,1,1,1,Customs Issue,1,1
+234.4,2.9,1,0,1,Strike,1,1
+60.5,3.5,2,1,2,Weather Delay,1,1
+85.1,1.9,2,1,0,Traffic Jam,1,1
+177.8,4.4,1,2,0,Weather Delay,1,1
+73.6,1.4,4,2,1,Weather Delay,1,1
+110.6,2.6,1,0,1,Weather Delay,1,1
+187.4,3.6,2,2,1,Weather Delay,1,1
+228.7,3.9,4,2,0,Strike,1,1
+298.9,4.3,0,2,1,Customs Issue,1,1
+195.3,3.0,3,1,0,Traffic Jam,1,1
+178.5,4.8,0,1,2,Strike,1,1
+273.3,3.9,2,1,0,Vehicle Breakdown,1,1
+193.4,3.3,2,1,1,Strike,1,1
+203.3,3.3,1,0,2,Customs Issue,1,1
+84.0,3.7,0,0,0,Strike,1,1
+207.3,4.2,2,3,1,Customs Issue,1,1
+65.1,3.0,0,2,1,Traffic Jam,1,1
+73.3,1.6,3,1,0,Weather Delay,1,1
+256.8,3.3,0,3,1,Vehicle Breakdown,1,1
+237.0,3.6,4,2,2,Customs Issue,1,1
+310.6,4.9,0,1,1,Customs Issue,1,1
+139.5,4.0,3,0,1,Vehicle Breakdown,1,1
+174.0,2.9,3,3,2,Strike,1,1
+135.3,2.8,3,0,1,Vehicle Breakdown,1,1
+243.1,4.0,2,0,1,Customs Issue,1,1
+313.3,5.3,2,2,1,Weather Delay,1,1
+130.1,2.8,1,3,0,Traffic Jam,1,1
+92.0,3.8,0,3,1,Strike,1,1
+236.3,3.8,0,0,2,Customs Issue,1,1
+292.7,5.0,1,2,2,Vehicle Breakdown,1,1
+56.1,2.5,0,0,0,Weather Delay,1,1
+191.1,3.4,4,1,1,Vehicle Breakdown,1,1
+100.3,1.5,4,2,0,Strike,1,1
+137.4,3.2,1,2,1,Customs Issue,1,1
+172.3,2.3,1,1,0,Traffic Jam,1,1
+303.0,3.8,3,1,1,Vehicle Breakdown,1,1
+130.0,3.1,1,2,0,Vehicle Breakdown,1,1
+312.7,4.5,1,0,0,Vehicle Breakdown,1,1
+323.8,4.3,0,1,1,Vehicle Breakdown,1,1
+274.2,4.1,2,2,2,Customs Issue,1,1
+308.2,4.8,1,3,2,Traffic Jam,1,1
+338.7,5.6,2,2,0,Customs Issue,1,1
+220.9,3.6,0,1,2,Vehicle Breakdown,1,1
+336.3,4.9,3,2,2,Strike,1,1
+134.8,2.8,0,2,0,Weather Delay,1,1
+135.8,2.0,1,0,1,Weather Delay,1,1
+164.0,4.5,0,2,1,Weather Delay,1,1
+107.3,2.6,3,3,2,Customs Issue,1,1
+305.3,4.4,0,2,0,Traffic Jam,1,1
+225.7,5.0,1,1,2,Traffic Jam,1,1
+301.1,5.3,4,0,0,Vehicle Breakdown,1,1
+79.8,1.8,2,2,2,Strike,1,1
+208.4,4.3,1,2,0,Vehicle Breakdown,1,1
+239.9,4.0,2,2,0,Customs Issue,1,1
+253.8,3.3,1,0,0,Vehicle Breakdown,1,1
+97.4,3.7,0,0,1,Strike,1,1
+181.1,4.2,0,0,1,Traffic Jam,1,1
+256.1,4.0,4,0,2,Vehicle Breakdown,1,1
+107.2,2.6,3,1,0,Customs Issue,1,1
+336.4,5.1,4,0,1,Vehicle Breakdown,1,1
+80.6,3.1,4,0,1,Vehicle Breakdown,1,1
+314.7,5.0,2,3,1,Traffic Jam,1,1
+105.9,2.7,2,1,1,Weather Delay,1,1
+84.3,1.5,0,0,2,Customs Issue,1,1
+203.3,4.2,2,1,0,Vehicle Breakdown,1,1
+344.6,6.3,0,0,1,Strike,1,1
+141.5,4.0,2,1,1,Vehicle Breakdown,1,1
+123.9,3.4,3,2,1,Weather Delay,1,1
+117.0,2.2,3,1,2,Strike,1,1
+90.2,1.5,0,2,0,Traffic Jam,1,1
+321.8,4.9,0,1,0,Customs Issue,1,1
+56.2,2.6,1,1,2,Weather Delay,1,1
+52.4,3.5,1,0,0,Weather Delay,1,1
+321.3,4.9,0,0,0,Vehicle Breakdown,1,1
+290.7,5.5,0,3,1,Strike,1,1
+80.8,3.4,4,3,0,Customs Issue,1,1
+72.4,2.8,2,1,1,Customs Issue,1,1
+190.5,2.9,4,1,0,Strike,1,1
+160.5,2.7,2,3,0,Traffic Jam,1,1
+68.1,3.6,2,0,2,Vehicle Breakdown,1,1
+188.8,4.8,3,2,2,Weather Delay,1,1
+309.2,4.0,0,1,0,Customs Issue,1,1
+184.5,4.3,3,2,0,Strike,1,1
+273.5,4.9,1,3,2,Traffic Jam,1,1
+321.5,4.5,1,2,2,Weather Delay,1,1
+189.3,4.8,2,2,2,Strike,1,1
+154.2,2.4,1,0,0,Weather Delay,1,1
+242.3,4.7,0,2,1,Traffic Jam,1,1
+279.5,5.2,2,0,2,Weather Delay,1,1
+245.0,4.3,2,3,1,Customs Issue,1,1
+131.8,4.1,4,2,2,Weather Delay,1,1
+155.1,2.6,1,0,0,Traffic Jam,1,1
+196.2,4.3,4,3,1,Strike,1,1
+281.8,3.5,1,3,1,Customs Issue,1,1
+344.3,4.8,2,1,0,Customs Issue,1,1
+216.9,3.3,4,1,0,Vehicle Breakdown,1,1
+299.2,4.4,1,3,2,Customs Issue,1,1
+254.0,3.2,2,3,1,Vehicle Breakdown,1,1
+298.3,5.5,0,0,2,Vehicle Breakdown,1,1
+309.9,4.6,1,0,0,Traffic Jam,1,1
+216.0,3.5,3,2,2,Strike,1,1
+134.3,4.1,3,2,1,Weather Delay,1,1
+285.0,4.0,1,2,2,Weather Delay,1,1
+189.7,4.7,4,2,0,Vehicle Breakdown,1,1
+153.4,2.4,4,0,0,Strike,1,1
+101.5,3.2,3,3,1,Strike,1,1
+114.1,3.1,2,0,1,Vehicle Breakdown,1,1
+195.5,3.7,3,0,2,Strike,1,1
+138.9,2.0,1,1,2,Customs Issue,1,1
+248.6,3.8,4,1,1,Strike,1,1
+95.4,3.0,1,3,0,Vehicle Breakdown,1,1
+168.7,2.9,1,3,1,Weather Delay,1,1
+197.1,3.3,3,0,0,Customs Issue,1,1
+96.1,1.7,3,2,0,Strike,1,1
+344.5,4.0,3,0,2,Strike,1,1
+159.1,3.7,4,1,2,Weather Delay,1,1
+218.3,3.7,4,0,1,Vehicle Breakdown,1,1
+330.9,5.0,1,1,0,Strike,1,1
+122.7,2.6,3,1,0,Traffic Jam,1,1
+132.1,2.3,3,0,2,Traffic Jam,1,1
+141.8,2.1,4,1,2,Strike,1,1
+206.9,4.4,0,1,0,Weather Delay,1,1
+257.1,5.2,2,3,0,Weather Delay,1,1
+72.0,1.9,1,0,1,Customs Issue,1,1
+317.3,5.3,1,2,1,Weather Delay,1,1
+96.0,2.4,4,1,1,Customs Issue,1,1
+74.8,2.7,3,3,1,Customs Issue,1,1
+193.7,4.9,4,0,2,Weather Delay,1,1
+310.5,4.2,0,0,2,Vehicle Breakdown,1,1
+147.4,3.0,0,2,1,Vehicle Breakdown,1,1
+275.4,5.3,0,0,1,Weather Delay,1,1
+271.2,4.6,3,2,2,Vehicle Breakdown,1,1
+251.7,3.9,1,1,2,Customs Issue,1,1
+239.1,3.7,0,2,1,Customs Issue,1,1
+119.5,2.4,0,0,0,Traffic Jam,1,1
+185.3,4.0,2,3,2,Customs Issue,1,1
+103.3,3.7,3,3,1,Customs Issue,1,1
+318.3,5.7,4,1,0,Traffic Jam,1,1
+199.3,3.9,2,3,0,Weather Delay,1,1
+67.0,3.2,4,1,2,Traffic Jam,1,1
+276.2,3.7,4,1,1,Vehicle Breakdown,1,1
+294.9,4.4,1,1,2,Weather Delay,1,1
+313.3,4.4,2,2,0,Traffic Jam,1,1
+101.8,3.4,0,1,0,Traffic Jam,1,1
+65.3,1.7,2,2,0,Traffic Jam,1,1
+245.9,4.5,3,1,2,Weather Delay,1,1
+297.8,5.0,4,1,0,Vehicle Breakdown,1,1
+74.7,3.0,0,3,2,Weather Delay,1,1
+145.2,2.4,4,3,0,Vehicle Breakdown,1,1
+150.6,3.3,3,2,1,Weather Delay,1,1
+162.0,3.6,1,1,2,Customs Issue,1,1
+313.2,4.3,2,2,1,Customs Issue,1,1
+297.4,5.4,3,3,0,Strike,1,1
+330.2,4.7,0,0,1,Strike,1,1
+339.5,5.9,3,0,0,Vehicle Breakdown,1,1
+262.0,3.6,4,0,1,Vehicle Breakdown,1,1
+309.8,3.9,0,1,1,Strike,1,1
+177.5,3.8,1,1,1,Weather Delay,1,1
+325.9,4.5,4,0,0,Customs Issue,1,1
+331.5,6.3,2,0,0,Weather Delay,1,1
+307.9,5.8,3,2,0,Traffic Jam,1,1
+66.7,1.7,2,0,2,Traffic Jam,1,1
+271.2,5.0,4,1,2,Weather Delay,1,1
+317.5,4.1,4,0,2,Traffic Jam,1,1
+304.1,4.1,0,3,1,Traffic Jam,1,1
+229.7,4.2,3,3,0,Weather Delay,1,1
+100.9,1.7,3,3,0,Weather Delay,1,1
+115.6,3.2,4,3,1,Customs Issue,1,1
+258.5,5.5,1,1,0,Strike,1,1
+176.1,4.2,3,1,0,Vehicle Breakdown,1,1
+158.4,3.7,4,2,0,Weather Delay,1,1
+137.5,3.0,3,1,2,Vehicle Breakdown,1,1
+142.4,3.5,3,1,2,Traffic Jam,1,1
+270.3,4.0,2,3,1,Vehicle Breakdown,1,1
+167.2,4.6,4,3,1,Vehicle Breakdown,1,1
+95.0,3.6,1,1,2,Strike,1,1
+156.9,4.2,2,3,1,Customs Issue,1,1
+174.9,2.3,0,3,1,Weather Delay,1,1
+97.1,2.2,1,2,1,Strike,1,1
+345.4,4.2,1,3,2,Traffic Jam,1,1
+187.6,4.4,2,1,2,Customs Issue,1,1
+146.9,4.4,4,1,0,Traffic Jam,1,1
+96.7,2.3,2,1,1,Vehicle Breakdown,1,1
+79.0,3.1,0,1,2,Customs Issue,1,1
+77.8,3.1,3,2,1,Strike,1,1
+290.5,5.0,2,2,0,Strike,1,1
+269.6,3.4,4,0,1,Weather Delay,1,1
+58.4,2.3,2,1,2,Customs Issue,1,1
+284.8,5.0,2,2,0,Customs Issue,1,1
+246.9,4.2,2,0,1,Weather Delay,1,1
+160.7,3.7,0,2,0,Vehicle Breakdown,1,1
+293.7,4.1,2,3,0,Traffic Jam,1,1
+274.4,4.5,1,1,0,Weather Delay,1,1
+244.2,3.5,4,3,2,Weather Delay,1,1
+215.9,4.4,2,2,1,Customs Issue,1,1
+219.4,5.0,3,3,2,Weather Delay,1,1
+66.3,1.8,4,0,2,Weather Delay,1,1
+215.8,3.4,2,3,1,Strike,1,1
+126.4,2.4,2,0,2,Strike,1,1
+335.9,5.8,2,1,1,Strike,1,1
+250.1,4.3,1,3,2,Customs Issue,1,1
+336.6,4.8,0,3,1,Weather Delay,1,1
+58.9,1.4,0,3,1,Weather Delay,1,1
+333.9,5.0,4,3,1,Vehicle Breakdown,1,1
+115.7,2.7,0,2,1,Traffic Jam,1,1
+317.8,6.1,4,2,0,Traffic Jam,1,1
+175.1,4.4,2,0,0,Strike,1,1
+108.3,4.0,4,3,0,Weather Delay,1,1
+295.4,4.2,3,3,2,Traffic Jam,1,1
+328.4,6.0,0,2,2,Weather Delay,1,1
+102.6,1.9,1,3,1,Weather Delay,1,1
+285.4,3.6,4,2,2,Weather Delay,1,1
+209.1,2.6,0,1,2,Strike,1,1
+315.2,5.9,2,0,0,Traffic Jam,1,1
+96.5,3.2,4,2,1,Weather Delay,1,1
+189.6,3.8,4,0,0,Strike,1,1
+97.0,1.9,2,2,0,Traffic Jam,1,1
+228.2,4.5,3,3,0,Customs Issue,1,1
+266.9,5.1,0,3,2,Traffic Jam,1,1
+231.2,2.9,2,2,2,Weather Delay,1,1
+127.2,3.5,1,1,1,Weather Delay,1,1
+202.0,4.5,4,1,1,Traffic Jam,1,1
+106.3,3.6,2,0,1,Vehicle Breakdown,1,1
+276.3,4.6,1,3,0,Traffic Jam,1,1
+340.6,5.6,1,2,1,Vehicle Breakdown,1,1
+221.3,4.8,0,2,0,Vehicle Breakdown,1,1
+107.4,3.1,2,2,1,Vehicle Breakdown,1,1
+269.5,3.9,1,2,1,Vehicle Breakdown,1,1
+245.8,3.7,4,0,2,Weather Delay,1,1
+66.1,3.4,2,3,1,Strike,1,1
+66.9,1.8,1,2,1,Vehicle Breakdown,1,1
+60.7,2.5,2,1,2,Strike,1,1
+239.9,4.8,2,2,2,Strike,1,1
+212.4,4.8,2,0,1,Weather Delay,1,1
+98.4,1.6,0,1,1,Weather Delay,1,1
+319.8,5.5,1,0,2,Weather Delay,1,1
+288.5,4.8,2,0,2,Strike,1,1
+179.5,4.3,2,0,1,Vehicle Breakdown,1,1
+72.3,2.3,0,1,2,Vehicle Breakdown,1,1
+93.6,3.7,1,0,0,Customs Issue,1,1
+291.7,3.6,3,1,0,Weather Delay,1,1
+308.4,5.0,4,3,2,Strike,1,1
+282.1,3.7,2,0,2,Weather Delay,1,1
+300.1,5.9,4,0,2,Weather Delay,1,1
+334.8,4.5,4,1,0,Strike,1,1
+95.6,2.0,1,3,1,Strike,1,1
+87.0,2.3,2,3,2,Strike,1,1
+153.9,2.4,0,2,2,Weather Delay,1,1
+259.9,3.5,1,0,1,Traffic Jam,1,1
+243.8,5.1,3,1,0,Customs Issue,1,1
+337.2,4.5,3,2,1,Strike,1,1
+305.0,5.6,1,3,2,Strike,1,1
+203.3,3.0,1,1,1,Strike,1,1
+65.4,2.6,0,3,0,Traffic Jam,1,1
+207.8,3.7,2,3,1,Weather Delay,1,1
+321.7,4.3,1,1,0,Traffic Jam,1,1
+342.8,5.9,0,0,1,Customs Issue,1,1
+222.3,3.8,2,3,0,Customs Issue,1,1
+247.7,3.6,3,3,1,Vehicle Breakdown,1,1
+75.4,2.5,3,2,2,Vehicle Breakdown,1,1
+70.3,2.2,2,2,2,Weather Delay,1,1
+116.9,4.1,4,2,2,Strike,1,1
+347.5,5.9,4,2,2,Weather Delay,1,1
+345.7,5.9,1,2,1,Vehicle Breakdown,1,1
+74.9,3.5,3,0,0,Vehicle Breakdown,1,1
+113.4,3.0,4,2,0,Customs Issue,1,1
+237.2,4.2,1,2,0,Strike,1,1
+310.2,4.1,4,1,1,Customs Issue,1,1
+117.6,1.9,3,2,1,Vehicle Breakdown,1,1
+141.4,4.1,0,1,2,Strike,1,1
+264.7,3.8,2,0,0,Customs Issue,1,1
+132.5,3.3,1,1,1,Strike,1,1
+214.6,4.2,3,0,1,Customs Issue,1,1
+287.6,5.3,3,0,2,Weather Delay,1,1
+333.0,6.0,0,2,1,Strike,1,1
+113.3,3.9,1,3,0,Vehicle Breakdown,1,1
+50.0,1.5,2,1,0,Traffic Jam,1,1
+249.9,3.1,2,0,0,Customs Issue,1,1
+50.8,2.0,3,0,2,Traffic Jam,1,1
+293.1,3.8,1,0,2,Vehicle Breakdown,1,1
+65.7,2.4,0,2,2,Traffic Jam,1,1
+116.2,2.6,0,0,2,Weather Delay,1,1
+259.8,5.1,0,1,1,Traffic Jam,1,1
+292.0,3.7,4,2,2,Weather Delay,1,1
+91.4,2.8,3,3,2,Vehicle Breakdown,1,1
+237.5,4.8,4,0,1,Strike,1,1
+243.4,3.6,0,1,1,Customs Issue,1,1
+277.3,3.6,4,2,0,Vehicle Breakdown,1,1
+61.9,2.2,2,0,2,Vehicle Breakdown,1,1
+213.3,4.3,3,0,0,Strike,1,1
+297.5,5.3,4,1,2,Strike,1,1
+218.5,2.8,2,2,0,Vehicle Breakdown,1,1
+319.8,6.2,2,0,0,Customs Issue,1,1
+180.1,3.5,4,2,0,Vehicle Breakdown,1,1
+347.2,5.5,2,2,2,Traffic Jam,1,1
+113.2,2.2,2,2,0,Weather Delay,1,1
+182.8,2.4,4,2,1,Strike,1,1
+187.6,3.7,1,0,1,Vehicle Breakdown,1,1
+82.4,2.6,2,0,0,Weather Delay,1,1
+187.9,4.3,4,1,1,Customs Issue,1,1
+64.0,2.8,1,3,0,Customs Issue,1,1
+137.2,3.2,3,3,1,Strike,1,1
+245.9,5.1,0,0,2,Customs Issue,1,1
+207.5,3.5,0,1,2,Vehicle Breakdown,1,1
+204.4,2.6,4,3,1,Customs Issue,1,1
+70.3,2.9,2,0,2,Traffic Jam,1,1
+245.5,3.4,3,2,1,Traffic Jam,1,1
+175.8,2.7,3,0,2,Customs Issue,1,1
+216.2,3.1,2,0,2,Traffic Jam,1,1
+169.7,4.1,2,2,0,Weather Delay,1,1
+136.0,3.3,1,2,0,Weather Delay,1,1
+313.2,3.6,3,2,2,Weather Delay,1,1
+305.4,4.8,3,3,1,Traffic Jam,1,1
+318.2,4.5,1,2,2,Vehicle Breakdown,1,1
+293.6,4.9,3,0,1,Customs Issue,1,1
+65.0,2.1,2,0,2,Traffic Jam,1,1
+345.6,4.0,1,0,0,Strike,1,1
+147.5,2.9,0,0,2,Strike,1,1
+263.0,4.8,1,1,1,Weather Delay,1,1
+172.1,3.1,2,3,1,Strike,1,1
+293.8,3.9,2,2,0,Vehicle Breakdown,1,1
+249.8,4.6,0,2,0,Traffic Jam,1,1
+323.9,5.8,3,0,1,Traffic Jam,1,1
+176.8,2.8,3,1,0,Traffic Jam,1,1
+173.3,4.5,0,3,1,Customs Issue,1,1
+182.5,2.7,0,3,2,Traffic Jam,1,1
+153.1,4.4,4,3,0,Strike,1,1
+67.8,1.4,3,0,2,Traffic Jam,1,1
+242.4,3.5,0,0,1,Customs Issue,1,1
+67.1,1.2,4,0,1,Customs Issue,1,1
+341.0,5.9,1,1,2,Traffic Jam,1,1
+349.3,5.0,3,0,0,Vehicle Breakdown,1,1
+248.1,3.3,4,2,0,Strike,1,1
+323.1,6.1,0,0,1,Customs Issue,1,1
+235.4,2.9,2,2,2,Traffic Jam,1,1
+318.2,5.8,4,3,1,Traffic Jam,1,1
+102.4,3.4,4,3,2,Vehicle Breakdown,1,1
+146.8,4.5,0,3,2,Strike,1,1
+181.6,3.2,3,0,1,Vehicle Breakdown,1,1
+211.9,2.6,4,3,0,Strike,1,1
+224.5,3.8,4,2,2,Traffic Jam,1,1
+301.3,5.3,1,2,0,Traffic Jam,1,1
+347.5,6.3,0,1,2,Customs Issue,1,1
+58.1,3.4,3,1,1,Vehicle Breakdown,1,1
+155.6,3.0,0,0,1,Traffic Jam,1,1
+117.7,2.6,4,0,0,Strike,1,1
+86.7,2.6,1,3,2,Traffic Jam,1,1
+307.2,4.1,1,1,1,Weather Delay,1,1
+152.7,2.5,4,3,2,Traffic Jam,1,1
+81.6,2.8,3,2,0,Weather Delay,1,1
+267.5,5.6,1,3,0,Vehicle Breakdown,1,1
+238.9,3.7,1,1,1,Vehicle Breakdown,1,1
+239.7,4.2,2,3,2,Traffic Jam,1,1
+327.8,5.6,1,0,1,Customs Issue,1,1
+337.0,5.9,0,0,2,Weather Delay,1,1
+110.0,2.9,3,3,2,Traffic Jam,1,1
+51.2,2.4,2,2,0,Weather Delay,1,1
+217.5,5.1,4,0,2,Strike,1,1
+207.7,3.8,0,2,0,Weather Delay,1,1
+145.2,4.0,1,2,1,Strike,1,1
+89.5,3.2,1,1,1,Strike,1,1
+195.6,4.7,3,1,0,Traffic Jam,1,1
+188.1,2.6,4,2,1,Traffic Jam,1,1
+136.9,4.0,4,3,2,Strike,1,1
+291.6,3.8,3,3,0,Customs Issue,1,1
+169.5,3.9,1,2,0,Weather Delay,1,1
+105.9,2.0,4,1,1,Customs Issue,1,1
+275.0,5.3,2,1,0,Customs Issue,1,1
+349.1,5.3,3,3,2,Strike,1,1
+52.9,2.1,3,2,2,Vehicle Breakdown,1,1
+53.8,2.5,3,0,0,Vehicle Breakdown,1,1
+299.1,3.8,2,1,2,Weather Delay,1,1
+176.0,4.5,0,0,2,Weather Delay,1,1
+290.5,5.8,3,3,0,Weather Delay,1,1
+269.0,4.3,0,2,1,Customs Issue,1,1
+176.1,3.3,1,2,1,Weather Delay,1,1
+96.2,3.2,1,0,0,Customs Issue,1,1
+168.8,2.6,0,3,0,Vehicle Breakdown,1,1
+177.3,4.6,0,3,1,Strike,1,1
+347.7,5.9,3,2,0,Traffic Jam,1,1
+165.9,2.7,2,1,1,Strike,1,1
+74.7,2.6,2,1,0,Customs Issue,1,1
+255.3,5.4,1,2,0,Weather Delay,1,1
+96.8,3.4,2,3,0,Vehicle Breakdown,1,1
+182.3,2.4,1,1,1,Vehicle Breakdown,1,1
+115.7,3.8,3,3,2,Traffic Jam,1,1
+203.6,3.6,1,2,1,Customs Issue,1,1
+155.7,4.0,1,1,0,Strike,1,1
+91.1,3.3,0,2,2,Vehicle Breakdown,1,1
+331.4,5.7,4,2,2,Customs Issue,1,1
+93.2,3.7,1,0,1,Customs Issue,1,1
+265.8,5.2,1,1,1,Vehicle Breakdown,1,1
+321.9,4.5,2,0,0,Vehicle Breakdown,1,1
+209.0,2.8,2,0,1,Strike,1,1
+269.2,4.3,0,0,2,Customs Issue,1,1
+296.1,3.8,3,0,1,Traffic Jam,1,1
+107.4,2.8,0,0,1,Vehicle Breakdown,1,1
+93.5,2.4,4,1,0,Vehicle Breakdown,1,1
+215.2,2.8,1,3,2,Customs Issue,1,1
+60.3,1.3,0,0,2,Weather Delay,1,1
+183.3,4.2,4,3,0,Traffic Jam,1,1
+133.6,2.9,4,2,0,Weather Delay,1,1
+204.7,2.7,0,2,0,Customs Issue,1,1
+75.3,2.0,4,2,0,Customs Issue,1,1
+155.6,3.4,0,0,0,Vehicle Breakdown,1,1
+308.3,5.3,2,1,2,Vehicle Breakdown,1,1
+188.7,4.6,3,3,1,Traffic Jam,1,1
+62.8,2.0,1,0,0,Strike,1,1
+133.8,2.6,2,3,2,Customs Issue,1,1
+116.8,1.7,2,2,0,Vehicle Breakdown,1,1
+206.8,4.3,3,2,1,Strike,1,1
+188.4,4.3,0,2,2,Vehicle Breakdown,1,1
+276.3,5.1,1,1,2,Traffic Jam,1,1
+68.2,3.3,4,0,1,Weather Delay,1,1
+125.3,2.4,0,1,0,Vehicle Breakdown,1,1
+231.8,3.6,1,1,2,Weather Delay,1,1
+53.2,3.0,3,0,0,Traffic Jam,1,1
+124.0,3.6,2,0,1,Customs Issue,1,1
+333.1,4.1,4,0,2,Strike,1,1
+258.5,5.0,4,2,0,Traffic Jam,1,1
+89.6,2.4,3,2,0,Traffic Jam,1,1
+308.7,3.9,4,0,0,Strike,1,1
+121.1,3.8,3,0,1,Weather Delay,1,1
+124.0,1.9,0,1,1,Customs Issue,1,1
+217.3,3.1,3,3,1,Traffic Jam,1,1
+349.8,4.6,3,1,0,Customs Issue,1,1
+154.4,3.7,4,2,1,Vehicle Breakdown,1,1
+235.6,3.7,3,3,0,Traffic Jam,1,1
+132.2,3.1,2,2,0,Strike,1,1
+196.4,2.9,0,2,0,Weather Delay,1,1
+91.2,1.7,3,2,1,Customs Issue,1,1
+250.8,3.3,2,2,2,Customs Issue,1,1
+241.1,3.9,3,1,1,Traffic Jam,1,1
+246.2,4.6,1,1,2,Customs Issue,1,1
+69.6,2.5,1,1,2,Customs Issue,1,1
+109.4,2.6,4,1,0,Traffic Jam,1,1
+92.1,3.6,4,2,0,Weather Delay,1,1
+312.5,3.8,3,2,0,Weather Delay,1,1
+114.2,3.6,3,2,0,Traffic Jam,1,1
+277.3,4.3,3,0,2,Traffic Jam,1,1
+174.0,4.7,1,0,0,Weather Delay,1,1
+223.4,3.8,1,0,0,Weather Delay,1,1
+308.7,4.8,2,0,0,Strike,1,1
+121.7,2.9,3,1,0,Traffic Jam,1,1
+225.3,5.2,0,3,0,Customs Issue,1,1
+176.8,2.9,1,0,1,Weather Delay,1,1
+258.1,4.7,1,3,1,Strike,1,1
+285.0,4.2,4,1,0,Vehicle Breakdown,1,1
+335.8,5.5,0,0,0,Weather Delay,1,1
+166.6,2.9,0,2,1,Strike,1,1
+266.8,3.2,1,0,0,Vehicle Breakdown,1,1
+144.7,2.2,1,1,2,Traffic Jam,1,1
+134.3,3.3,0,0,2,Customs Issue,1,1
+303.0,4.7,0,0,0,Customs Issue,1,1
+291.8,4.9,2,2,1,Weather Delay,1,1
+295.9,3.9,2,0,0,Weather Delay,1,1
+101.0,3.5,1,3,1,Vehicle Breakdown,1,1
+182.7,4.7,4,1,2,Traffic Jam,1,1
+190.7,3.9,2,0,1,Traffic Jam,1,1
+207.7,2.7,4,0,2,Vehicle Breakdown,1,1
+176.1,3.5,4,2,1,Traffic Jam,1,1
+136.9,2.1,1,0,0,Vehicle Breakdown,1,1
+260.9,4.7,2,1,2,Customs Issue,1,1
+139.2,3.4,3,3,2,Traffic Jam,1,1
+272.7,4.3,1,3,0,Vehicle Breakdown,1,1
+160.0,2.5,2,3,1,Customs Issue,1,1
+84.2,3.2,2,1,2,Strike,1,1
+271.9,5.3,1,3,0,Customs Issue,1,1
+273.9,5.1,2,1,0,Vehicle Breakdown,1,1
+306.4,5.4,0,1,1,Vehicle Breakdown,1,1
+164.3,2.6,0,2,1,Weather Delay,1,1
+311.2,4.0,3,1,1,Vehicle Breakdown,1,1
+312.4,4.7,4,3,1,Weather Delay,1,1
+332.8,5.0,0,0,0,Weather Delay,1,1
+240.8,3.7,4,1,2,Vehicle Breakdown,1,1
+257.5,4.8,0,1,0,Traffic Jam,1,1
+67.8,1.6,4,2,1,Traffic Jam,1,1
+133.4,2.0,0,3,0,Vehicle Breakdown,1,1
+197.7,4.0,1,1,0,Weather Delay,1,1
+140.5,3.5,3,2,1,Vehicle Breakdown,1,1
+241.8,4.6,4,1,2,Customs Issue,1,1
+262.2,4.6,3,3,2,Vehicle Breakdown,1,1
+243.7,4.6,1,1,0,Strike,1,1
+165.2,3.9,2,0,2,Customs Issue,1,1
+271.3,5.1,1,0,0,Weather Delay,1,1
+241.1,3.7,1,1,2,Vehicle Breakdown,1,1
+65.2,3.5,4,3,0,Strike,1,1
+301.6,5.9,3,3,0,Traffic Jam,1,1
+136.6,3.0,3,3,0,Weather Delay,1,1
+339.0,5.4,3,3,0,Vehicle Breakdown,1,1
+241.0,5.2,1,0,2,Vehicle Breakdown,1,1
+344.9,5.9,1,3,1,Strike,1,1
+83.5,3.2,3,1,2,Weather Delay,1,1
+275.9,5.2,1,2,2,Strike,1,1
+93.9,2.3,2,0,0,Traffic Jam,1,1
+153.0,4.5,3,1,1,Strike,1,1
+237.8,3.8,4,1,2,Weather Delay,1,1
+301.9,5.4,1,3,1,Weather Delay,1,1
+135.0,3.2,4,3,2,Customs Issue,1,1
+194.8,3.5,4,2,2,Customs Issue,1,1
+257.1,3.4,1,0,1,Customs Issue,1,1
+86.5,2.3,2,2,0,Weather Delay,1,1
+95.8,3.9,3,0,2,Strike,1,1
+233.1,4.5,4,1,2,Customs Issue,1,1
+72.6,1.3,0,0,2,Vehicle Breakdown,1,1
+310.8,5.4,2,3,1,Strike,1,1
+314.0,3.8,1,2,0,Customs Issue,1,1
+201.1,4.0,4,1,2,Traffic Jam,1,1
+125.0,2.5,4,0,1,Strike,1,1
+77.3,3.3,1,2,1,Weather Delay,1,1
+259.5,4.5,0,1,1,Vehicle Breakdown,1,1
+213.8,3.4,4,3,0,Vehicle Breakdown,1,1
+173.5,4.0,1,3,2,Weather Delay,1,1
+300.9,3.9,1,1,2,Strike,1,1
+212.5,3.2,1,0,1,Strike,1,1
+304.9,4.9,1,2,0,Customs Issue,1,1
+338.6,6.4,2,2,1,Traffic Jam,1,1
+159.6,3.6,2,1,1,Traffic Jam,1,1
+65.1,3.3,4,0,2,Strike,1,1
+124.0,3.5,0,3,1,Weather Delay,1,1
+59.9,2.0,0,2,1,Vehicle Breakdown,1,1
+293.8,5.1,4,0,0,Weather Delay,1,1
+242.2,3.6,3,1,1,Traffic Jam,1,1
+299.0,4.8,3,1,2,Weather Delay,1,1
+308.1,4.5,3,0,2,Strike,1,1
+326.2,6.2,1,3,1,Weather Delay,1,1
+60.9,2.0,3,1,1,Vehicle Breakdown,1,1
+173.7,4.3,3,2,0,Strike,1,1
+346.6,5.7,1,3,1,Weather Delay,1,1
+185.8,2.5,0,1,0,Weather Delay,1,1
+68.9,2.3,0,3,2,Vehicle Breakdown,1,1
+180.4,2.9,4,3,0,Strike,1,1
+70.8,2.7,2,2,1,Customs Issue,1,1
+223.2,3.3,4,3,0,Vehicle Breakdown,1,1
+281.5,3.5,4,1,0,Weather Delay,1,1
+134.3,2.1,0,2,1,Traffic Jam,1,1
+166.5,3.2,4,3,1,Weather Delay,1,1
+65.0,1.8,0,2,0,Traffic Jam,1,1
+315.8,3.9,1,2,1,Weather Delay,1,1
+209.9,3.5,1,3,0,Customs Issue,1,1
+247.2,3.9,3,2,2,Strike,1,1
+307.6,5.9,3,3,0,Customs Issue,1,1
+80.6,3.6,0,1,2,Traffic Jam,1,1
+113.9,2.1,1,1,2,Vehicle Breakdown,1,1
+56.2,1.5,0,3,1,Strike,1,1
+266.7,4.7,0,1,2,Traffic Jam,1,1
+270.2,3.7,4,1,1,Traffic Jam,1,1
+95.6,3.1,2,2,2,Weather Delay,1,1
+73.7,3.7,0,1,2,Vehicle Breakdown,1,1
+307.8,4.8,2,0,2,Strike,1,1
+207.1,4.3,2,0,2,Weather Delay,1,1
+59.5,1.3,0,1,2,Strike,1,1
+162.9,2.4,2,0,1,Customs Issue,1,1
+62.8,1.8,0,0,1,Customs Issue,1,1
+179.0,2.6,3,3,1,Vehicle Breakdown,1,1
+278.5,5.7,2,3,0,Customs Issue,1,1
+210.0,5.0,0,0,0,Customs Issue,1,1
+256.3,3.4,2,0,1,Customs Issue,1,1
+284.5,4.6,2,1,1,Weather Delay,1,1
+307.3,5.6,2,0,0,Vehicle Breakdown,1,1
+143.2,3.7,1,3,2,Traffic Jam,1,1
+307.3,5.5,4,3,1,Vehicle Breakdown,1,1
+287.0,5.3,1,3,0,Weather Delay,1,1
+127.7,3.5,1,3,2,Customs Issue,1,1
+256.1,4.7,4,2,2,Traffic Jam,1,1
+92.6,3.2,1,1,0,Vehicle Breakdown,1,1
+206.5,2.9,3,1,2,Weather Delay,1,1
+198.0,4.8,3,0,0,Strike,1,1
+70.3,1.9,3,2,0,Strike,1,1
+72.5,2.9,1,2,0,Strike,1,1
+124.1,3.2,0,2,1,Customs Issue,1,1
+260.4,5.2,1,2,0,Traffic Jam,1,1
+340.6,4.6,4,2,1,Weather Delay,1,1
+158.5,4.5,3,2,1,Weather Delay,1,1
+265.9,4.7,4,3,1,Traffic Jam,1,1
+184.2,3.0,2,1,0,Weather Delay,1,1
+291.1,4.5,2,2,0,Customs Issue,1,1
+87.4,1.5,3,2,1,Customs Issue,1,1
+138.4,2.7,2,3,2,Strike,1,1
+61.4,3.4,3,2,2,Weather Delay,1,1
+65.1,3.0,0,0,1,Traffic Jam,1,1
+284.8,5.7,2,0,0,Vehicle Breakdown,1,1
+217.8,4.8,3,2,2,Strike,1,1
+311.8,3.7,1,2,1,Weather Delay,1,1
+139.5,4.0,2,2,0,Customs Issue,1,1
+321.9,5.4,2,0,0,Customs Issue,1,1
+209.9,3.5,3,0,1,Traffic Jam,1,1
+90.0,3.0,2,2,1,Vehicle Breakdown,1,1
+214.1,4.6,3,0,2,Strike,1,1
+99.1,2.1,4,3,2,Vehicle Breakdown,1,1
+141.4,3.3,4,0,2,Weather Delay,1,1
+236.6,5.2,3,2,1,Weather Delay,1,1
+69.0,2.7,3,0,0,Strike,1,1
+55.8,1.6,0,3,1,Vehicle Breakdown,1,1
+112.2,1.7,2,1,0,Weather Delay,1,1
+208.5,3.9,4,1,2,Traffic Jam,1,1
+158.7,3.1,2,1,0,Strike,1,1
+186.5,2.6,0,3,1,Vehicle Breakdown,1,1
+229.1,4.3,2,3,0,Vehicle Breakdown,1,1
+216.7,4.9,0,3,0,Strike,1,1
+224.9,4.1,3,3,1,Strike,1,1
+179.5,2.6,2,2,1,Traffic Jam,1,1
+248.3,5.1,0,2,1,Customs Issue,1,1
+316.7,4.1,0,2,2,Customs Issue,1,1
+290.0,3.8,3,1,0,Vehicle Breakdown,1,1
+229.5,5.1,3,3,1,Vehicle Breakdown,1,1
+307.7,4.0,4,3,0,Vehicle Breakdown,1,1
+140.3,4.2,0,0,1,Traffic Jam,1,1
+284.9,3.9,1,1,2,Vehicle Breakdown,1,1
+67.0,3.1,1,0,2,Customs Issue,1,1
+223.2,3.3,1,0,2,Traffic Jam,1,1
+278.0,3.3,4,0,0,Weather Delay,1,1
+164.0,4.3,3,3,2,Weather Delay,1,1
+100.2,1.6,1,3,2,Weather Delay,1,1
+245.9,5.0,3,1,0,Customs Issue,1,1
+109.0,1.8,4,3,0,Vehicle Breakdown,1,1
+254.5,4.3,3,2,1,Strike,1,1
+263.0,4.8,2,1,2,Traffic Jam,1,1
+127.0,3.0,3,1,1,Customs Issue,1,1
+85.6,3.5,3,3,0,Vehicle Breakdown,1,1
+128.2,4.2,3,0,2,Customs Issue,1,1
+122.7,2.9,1,1,0,Traffic Jam,1,1
+296.3,5.2,3,2,2,Weather Delay,1,1
+178.0,4.5,1,0,2,Strike,1,1
+260.1,4.6,0,0,0,Traffic Jam,1,1
+221.5,3.3,3,3,0,Strike,1,1
+281.0,4.1,2,0,1,Traffic Jam,1,1
